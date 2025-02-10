@@ -1,3 +1,3 @@
 # apnacollege
 This is my first Git-Repository.
-Author-Ishika Jain
+Author-Ishika Jain(Apna College)
